@@ -1,4 +1,4 @@
-import Plots
+import PyPlot
 function ieeeplot(wp::Float64,ven::Float64,d::Float64,freq=[2e9,40e9])
     f = linspace(freq[1],freq[2],500)
     w = 2*pi*f
@@ -12,7 +12,7 @@ function ieeeplot(wp::Float64,ven::Float64,d::Float64,freq=[2e9,40e9])
     A1 = 10*log10(r1.*conj(r1))
     
 
-    Plots.plot(f/1e9,real(A1))
+    PyPlot.plot(f/1e9,real(A1))
     # return f/1e9,real(A1)
 
 
