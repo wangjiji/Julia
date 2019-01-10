@@ -1,0 +1,86 @@
+QtiPlot 0.9.8 template file
+<multiLayer>
+1	1	geometry	308	64	565	485	active
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	5	5	547	422
+<PageGeometry>0.00897666	0.0114416	0.982047	0.965675</PageGeometry>
+PlotTitle	Frequency=8GHz	#000000	4228
+<Antialiasing>0</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	ω<sub>p</sub>(GHz)	A(dB)		ν<sub>e</sub>(GHz)	
+AxesTitleColors	#000000	#ff0000	#0000ff	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	ææ³é©¿å¾®ç±³é»	12	75	0	0	0
+ScaleFont0	ææ³é©¿å¾®ç±³é»	10	50	0	0	0
+ScaleFont1	ææ³é©¿å¾®ç±³é»	10	50	0	0	0
+ScaleFont2	ææ³é©¿å¾®ç±³é»	10	50	0	0	0
+ScaleFont3	ææ³é©¿å¾®ç±³é»	10	75	0	0	0
+AxisFont0	ææ³é©¿å¾®ç±³é»	10	50	0	0	0
+AxisFont1	ææ³é©¿å¾®ç±³é»	10	50	0	0	0
+AxisFont2	ææ³é©¿å¾®ç±³é»	10	50	0	0	0
+AxisFont3	ææ³é©¿å¾®ç±³é»	10	50	0	0	0
+AxesColors	#000000	#ff0000	#000000	#000000
+AxesNumberColors	#333333	#333333	#333333	#333333
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+scale	0	-100	0	0	3	5	0	0
+scale	1	-200	400	0	4	5	0	0
+scale	2	0	30	0	7	5	0	0
+scale	3	0	30	0	7	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	3	3	3	0
+MinorTicks	3	3	3	0
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	1	1	0
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>-3.9974937343358</x>
+<y>383.27759197324</y>
+<right>8.09405940594059</right>
+<bottom>-13.265306122449</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1)%(1)
+\l(2)%(2)
+</Text>
+<Font>ææ³é©¿å¾®ç±³é»	10	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
